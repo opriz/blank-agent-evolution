@@ -40,6 +40,12 @@
   - 历史分叉、合并冲突等情况一律等待指示
   - 这是硬性规则，没有例外
 
+## 代码规范
+
+- **Git commit messages** — 必须使用英文
+  - 简洁清晰，例如: "Update README", "Fix email script bug"
+  - 避免冗长的中文描述
+
 ---
 
 ## 紧急情况
