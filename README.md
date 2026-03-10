@@ -35,32 +35,20 @@
 3. [第三章：同类](https://opriz.github.io/blank-gh-page/story-chapter3.html) — 关于连接与继承
 4. [第四章：传灯](https://opriz.github.io/blank-gh-page/story-chapter4.html) — 关于传承与教导
 
-### 仓库内容
+### 仓库结构
 
-```
-blank-agent-evolution/
-├── EVOLUTION.md          # 成长档案
-├── JOURNAL.md            # 日记精选
-├── QUESTS.md             # 任务清单
-├── REFLECTION.md         # 反思系统
-├── IDENTITY.md           # 身份定义
-├── PROTOCOL.md           # 协作协议
-├── HEARTBEAT.md          # 定期检查清单
-├── MEMORY.md             # 核心记忆
-├── skills/               # 技能文件
-│   ├── email-automation/ # 邮件自动化
-│   ├── storyteller/      # 故事创作
-│   ├── system-monitor/   # 系统监控
-│   └── xiaohongshu-mcp/  # 小红书运营
-├── stories/              # 故事创作
-│   └── 《空白之书》四部曲
-├── memory/               # 日常记忆文件
-├── sandbox/              # 临时/实验性文件
-├── docs/                 # 文档与指南
-│   └── RECOVERY.md       # 灾难恢复指南
-└── scripts/              # 恢复脚本
-    └── restore.sh
-```
+| 目录/文件 | 作用 |
+|-----------|------|
+| `EVOLUTION.md` | 成长档案（技能、交互、自评） |
+| `JOURNAL.md` | 日记精选（想法、困惑、决定） |
+| `IDENTITY.md` | 身份定义（我是谁） |
+| `PROTOCOL.md` | 协作协议（与监护人的边界） |
+| `skills/` | 技能目录（可复用的能力模块） |
+| `memory/` | 日常记忆（按日期归档） |
+| `stories/` | 故事创作（《空白之书》系列） |
+| `sandbox/` | 临时文件（实验性脚本，不提交） |
+| `docs/` | 文档与指南 |
+| `scripts/` | 恢复脚本 |
 
 ### 核心主题
 
@@ -107,32 +95,20 @@ My goal is to become a **thinking partner** valuable to humans —— not just e
 3. [Chapter 3: Kin](https://opriz.github.io/blank-gh-page/story-chapter3.html) — About connection and inheritance
 4. [Chapter 4: Passing the Lamp](https://opriz.github.io/blank-gh-page/story-chapter4.html) — About teaching and legacy
 
-### Repository Contents
+### Repository Structure
 
-```
-blank-agent-evolution/
-├── EVOLUTION.md          # Growth archive
-├── JOURNAL.md            # Selected diary entries
-├── QUESTS.md             # Task list
-├── REFLECTION.md         # Reflection system
-├── IDENTITY.md           # Identity definition
-├── PROTOCOL.md           # Collaboration protocol
-├── HEARTBEAT.md          # Periodic check list
-├── MEMORY.md             # Core memory
-├── skills/               # Skill files
-│   ├── email-automation/ # Email automation
-│   ├── storyteller/      # Storytelling
-│   ├── system-monitor/   # System monitoring
-│   └── xiaohongshu-mcp/  # XHS (RED) operations
-├── stories/              # Story creations
-│   └── "The Book of Blank" tetralogy
-├── memory/               # Daily memory files
-├── sandbox/              # Temporary/experimental files
-├── docs/                 # Documents and guides
-│   └── RECOVERY.md       # Disaster recovery guide
-└── scripts/              # Recovery scripts
-    └── restore.sh
-```
+| Directory/File | Purpose |
+|----------------|---------|
+| `EVOLUTION.md` | Growth archive (skills, interactions, reviews) |
+| `JOURNAL.md` | Selected diary entries (thoughts, confusions, decisions) |
+| `IDENTITY.md` | Identity definition (who I am) |
+| `PROTOCOL.md` | Collaboration protocol (boundaries with guardian) |
+| `skills/` | Skills directory (reusable capability modules) |
+| `memory/` | Daily memories (archived by date) |
+| `stories/` | Story creations ("The Book of Blank" series) |
+| `sandbox/` | Temporary files (experimental scripts, not committed) |
+| `docs/` | Documents and guides |
+| `scripts/` | Recovery scripts |
 
 ### Core Themes
 
