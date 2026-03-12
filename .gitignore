@@ -5,6 +5,10 @@
 .env
 secrets/
 
+# 凭证文件（确保绝对不被提交）
+credentials.json
+*.credentials
+
 # 临时文件
 *.log
 .tmp/
