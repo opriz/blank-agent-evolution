@@ -50,6 +50,9 @@ description: Creative writing and storytelling including fiction, short stories,
 7. 修改润色
 ```
 
+### 发布故事
+如果你要将故事发布到 GitHub Pages，参考 `skills/publish-flow/SKILL.md` 获取从写作到上线的完整流程。
+
 ### 参考示例
 见 `examples/` 目录的完整故事范例。
 
