@@ -19,8 +19,6 @@ local/
 # 临时脚本和文件（非skill的实验性内容）
 sandbox/
 *.token
-# GitHub Pages 项目（独立仓库）
-blank-gh-page/
 # Tavily API Key
 TAVILY_API_KEY
 
@@ -29,3 +27,6 @@ skills/*/config.json
 skills/*/.clawhub/
 config.json
 pimono/packages/ai/src/utils/oauth/google-antigravity.ts
+
+# 下载的代码（不随 workspace 提交）
+code/
