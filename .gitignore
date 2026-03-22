@@ -23,3 +23,9 @@ sandbox/
 blank-gh-page/
 # Tavily API Key
 TAVILY_API_KEY
+
+# Skill 配置文件（包含 API Keys）
+skills/*/config.json
+skills/*/.clawhub/
+config.json
+pimono/packages/ai/src/utils/oauth/google-antigravity.ts
